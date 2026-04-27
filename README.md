@@ -2,7 +2,7 @@
 
 트리트먼트 → 한글 시나리오(.hwpx) 자동 변환 Claude 스킬
 
-제작: 퍼미 (brunch.co.kr/@greening)
+제작: 퍼미에
 
 ## 다운로드
 
